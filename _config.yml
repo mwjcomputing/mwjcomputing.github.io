@@ -29,5 +29,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "mwjcomputing"
+owner : "Matthew Johnson"
+username: "mwjcomputing"
 year : "2024"
