@@ -14,3 +14,12 @@ Matthew has spoken at numerous information security and IT conferences including
 Matthew holds numerous industry certifications including GIAC Penetration Tester (GPEN) and GIAC Web Application Penetration Tester (GWAPT).
 
 In his spare time, Matthew enjoys being a dad, a supportive husband, cooking, brewing coffee, watching sports, playing video games, and golfing.
+
+You can find me on various sites below:
+
+- [Mastadon](<https://https://infosec.exchange/@mwjcomputing>)
+- [BlueSky](<https://bsky.app/profile/mwjcomputing.bsky.social>)
+- [X](<https://twitter.com/mwjcomputing>)\
+- [Tumblr](<https://mwjcomputing.tumblr.com>)
+- [Medium](<https://medium.com/@mwjcomputing>)
+- [YouTube](<https://www.youtube.com/channel/UCsKNfcfQotGa6_whAOGX9Hw>)
