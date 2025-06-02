@@ -17,9 +17,9 @@ In his spare time, Matthew enjoys being a dad, a supportive husband, cooking, br
 
 You can find me on various sites below:
 
-- [Mastadon](<https://https://infosec.exchange/@mwjcomputing>)
+- [Mastadon](<https://infosec.exchange/@mwjcomputing>)
 - [BlueSky](<https://bsky.app/profile/mwjcomputing.bsky.social>)
-- [X](<https://twitter.com/mwjcomputing>)\
+- [X](<https://twitter.com/mwjcomputing>)
 - [Tumblr](<https://mwjcomputing.tumblr.com>)
 - [Medium](<https://medium.com/@mwjcomputing>)
 - [YouTube](<https://www.youtube.com/channel/UCsKNfcfQotGa6_whAOGX9Hw>)
